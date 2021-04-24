@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+  },
+  "extensions": {
+    "recommendations": [
+      "donjayamanne.python-extension-pack",
+      "ms-python.python",
+      "pancho111203.vscode-ipython",
+      "voilalex.open-in-ipython",
+    ]
+  }
+}
